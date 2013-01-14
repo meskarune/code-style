@@ -1,0 +1,60 @@
+pre { 
+    white-space: pre-wrap; 
+    font-family: monospace; 
+    color: #ffffff; 
+    background-color: #262626; 
+}
+
+.lnr { 
+    color: #7f7f7f; 
+}
+
+.Error { 
+    color: #ffffff; 
+    background-color: #ff0000; 
+}
+
+.Underlined { 
+    color: #80a0ff; 
+    text-decoration: underline; 
+}
+
+.Identifier { 
+    color: #fa8072; 
+}
+
+.Special { 
+    color: #bdb76b; 
+}
+
+.Title { 
+    color: #ffd700; 
+    font-weight: bold; 
+}
+
+.String { 
+    color: #87ceeb; 
+}
+
+.Type { 
+    color: #6495ed; 
+    font-weight: bold; 
+}
+
+.PreProc { 
+    color: #ff0000; 
+    background-color: #ffffff; 
+}
+
+.Statement { 
+    color: #6495ed; 
+    font-weight: bold; 
+}
+
+.Function { 
+    color: #ffdead; 
+}
+
+.Comment { 
+    color: #666666; 
+}
