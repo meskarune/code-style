@@ -54,10 +54,6 @@ pre {
     font-weight: bold; 
 }
 
-.Function { 
-    color: #ffdead; 
-}
-
 .Comment { 
     color: #666666; 
 }
@@ -65,4 +61,15 @@ pre {
 .Operator { 
     color: #ff0000; 
 }
-      
+
+.Constant { 
+    color: #ffa0a0; 
+}
+
+.Function { 
+    color: #ffdead; 
+}
+
+.Include { 
+    color: #ff0000; 
+}
