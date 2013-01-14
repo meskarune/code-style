@@ -1,5 +1,7 @@
 pre { 
+    overflow: auto;
     white-space: pre-wrap; 
+    padding: .5em;
     font-family: monospace; 
     color: #ffffff; 
     background-color: #262626; 
@@ -58,3 +60,8 @@ pre {
 .Comment { 
     color: #666666; 
 }
+
+.Operator { 
+    color: #ff0000; 
+}
+      
